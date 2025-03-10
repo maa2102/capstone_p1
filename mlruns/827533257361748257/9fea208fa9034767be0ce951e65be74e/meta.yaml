@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/9fea208fa9034767be0ce951e65be74e/artifacts
+end_time: 1741582342186
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 9fea208fa9034767be0ce951e65be74e
+run_name: delightful-lamb-229
+run_uuid: 9fea208fa9034767be0ce951e65be74e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582272855
+status: 3
+tags: []
+user_id: suhaimi

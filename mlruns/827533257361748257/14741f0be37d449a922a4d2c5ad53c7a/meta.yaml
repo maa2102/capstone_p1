@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/14741f0be37d449a922a4d2c5ad53c7a/artifacts
+end_time: 1741587920839
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 14741f0be37d449a922a4d2c5ad53c7a
+run_name: inquisitive-ox-733
+run_uuid: 14741f0be37d449a922a4d2c5ad53c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741587875608
+status: 3
+tags: []
+user_id: suhaimi

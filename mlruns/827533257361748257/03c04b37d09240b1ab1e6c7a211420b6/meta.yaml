@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/03c04b37d09240b1ab1e6c7a211420b6/artifacts
+end_time: 1741581928905
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 03c04b37d09240b1ab1e6c7a211420b6
+run_name: efficient-doe-688
+run_uuid: 03c04b37d09240b1ab1e6c7a211420b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581887876
+status: 3
+tags: []
+user_id: suhaimi

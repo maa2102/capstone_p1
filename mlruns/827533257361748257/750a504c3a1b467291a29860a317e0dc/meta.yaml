@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/750a504c3a1b467291a29860a317e0dc/artifacts
+end_time: 1741582491902
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 750a504c3a1b467291a29860a317e0dc
+run_name: luminous-grouse-150
+run_uuid: 750a504c3a1b467291a29860a317e0dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582446992
+status: 3
+tags: []
+user_id: suhaimi

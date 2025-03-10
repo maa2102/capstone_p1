@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/950cc3504b6a460dafd50ad318526a8d/artifacts
+end_time: 1741580817551
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 950cc3504b6a460dafd50ad318526a8d
+run_name: gaudy-wren-571
+run_uuid: 950cc3504b6a460dafd50ad318526a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741580784245
+status: 4
+tags: []
+user_id: suhaimi

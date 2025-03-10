@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741587534544
+current_stage: None
+description: ''
+last_updated_timestamp: 1741587534544
+name: covid19-pred
+run_id: 885cef366d7844df9860bdca17557732
+run_link: ''
+source: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/885cef366d7844df9860bdca17557732/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/885cef366d7844df9860bdca17557732/artifacts/model
+user_id: null
+version: 2

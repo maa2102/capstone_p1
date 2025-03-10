@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/5c0caff6cbf3425bb4a10a5eabe83bf7/artifacts
+end_time: 1741582190206
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 5c0caff6cbf3425bb4a10a5eabe83bf7
+run_name: luminous-hare-702
+run_uuid: 5c0caff6cbf3425bb4a10a5eabe83bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741582155394
+status: 3
+tags: []
+user_id: suhaimi

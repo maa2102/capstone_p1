@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/839220bbb6954d90938d8309fc8bf904/artifacts
+end_time: 1741581734657
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 839220bbb6954d90938d8309fc8bf904
+run_name: rare-pig-580
+run_uuid: 839220bbb6954d90938d8309fc8bf904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581682668
+status: 3
+tags: []
+user_id: suhaimi

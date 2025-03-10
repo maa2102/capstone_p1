@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone1_afiq/mlruns/827533257361748257/60c8dcd6a4de4a40b6a168683438994b/artifacts
+end_time: 1741581502080
+entry_point_name: ''
+experiment_id: '827533257361748257'
+lifecycle_stage: active
+run_id: 60c8dcd6a4de4a40b6a168683438994b
+run_name: glamorous-grouse-362
+run_uuid: 60c8dcd6a4de4a40b6a168683438994b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581445476
+status: 3
+tags: []
+user_id: suhaimi
